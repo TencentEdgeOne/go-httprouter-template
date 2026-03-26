@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Go Functions on EdgeOne Pages - HttpRouter",
+  title: "HttpRouter + EdgeOne Pages",
   description: "Go Functions allow you to run Go web frameworks like HttpRouter on EdgeOne Pages. Build full-stack applications with HttpRouter's lightweight, zero-allocation routing.",
 };
 
@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en-US">
       <head>
-        <link rel="icon" href="/eo-logo-blue.svg" />
+        <link rel="icon" href="/httprouter-favicon.svg" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
