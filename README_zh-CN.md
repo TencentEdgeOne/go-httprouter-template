@@ -170,7 +170,7 @@ type Todo struct {
 
 ## 📚 文档入口
 
-- **EdgeOne Pages 官方文档**：[https://pages.edgeone.ai/document/go-functions](https://pages.edgeone.ai/document/go-functions)
+- **EdgeOne Pages 官方文档**：[https://pages.edgeone.ai/document/go](https://pages.edgeone.ai/document/go)
 - **HttpRouter 文档**：[https://github.com/julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
 - **Next.js 文档**：[https://nextjs.org/docs](https://nextjs.org/docs)
 - **Tailwind CSS 文档**：[https://tailwindcss.com/docs](https://tailwindcss.com/docs)
